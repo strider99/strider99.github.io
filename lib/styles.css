@@ -1,0 +1,63 @@
+.navbar-brand {
+	font-family: Noto Sans;
+	font-size: 28px;
+}
+
+.nav .navbar-text {
+	font-size: 1.5em;
+}
+
+.nav .navbar-text:hover {
+	color: white;
+	cursor: pointer;
+}
+
+body {
+	background: rgba(44, 44, 44, .9);
+}
+
+.jumbotron {
+	box-shadow: 1px 1px 20px #72786D;
+}
+
+#intro {
+	margin-top: 100px;
+}
+
+#intro p {
+	text-align: justify;
+}
+
+.languages li {
+	list-style: none;
+	font-size: 18px;
+	padding: 10px;
+}
+
+.sub-heading {
+	margin-top: -10px;
+	padding: 0 0 10px 0;
+}
+
+.thumbnail {
+	opacity: 1;
+	
+}
+
+.thumbnail a>img {
+	height: 250px !important;
+}
+
+.thumbnail:hover {
+	
+	
+	transition: background .25s ease-in-out;
+	-moz-transition: background .25s ease-in-out;
+	-webkit-transition: background .25s ease-in-out;
+	background: #BEB0E0;
+}
+
+.contact-img{
+	height: 40px;
+	width: 40px;
+}
