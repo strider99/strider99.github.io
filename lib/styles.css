@@ -89,8 +89,10 @@ a:hover{
 }
 .fa-book{
 	padding: 10px;
-	color: #FF3399;
-	/*background: #FF3399;*/
+	/*background: #DB55D4;*/
+	/*color: #F8CF2C;*/
+	background: #05E0E9;
+	color: #4E1A3D;
 	border-radius: 50%;
 }
 
