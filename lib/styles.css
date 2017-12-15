@@ -35,6 +35,7 @@ a:hover{
 	width: 80px;
 	height: 80px;
 	border-radius: 50%;
+	image-rendering: -webkit-optimize-contrast;
 }
 #myname{
 	font-weight: bold;
