@@ -98,11 +98,9 @@ a:hover{
 
 .fa-briefcase{
 	padding: 10px;
-	color: #803300;
-	/*background: #FF9900;*/
+	color: #BF6336;
+	background: #523A28;
 	border-radius: 50%;
-	/*border: 3px solid #FF9900;*/
-	box-shadow: inset 0px 0px 0px 2px #FF9900;
 }
 a {
 	text-decoration: none;
